@@ -1,0 +1,25 @@
+nav {
+  background-color: #404040; }
+  nav ul {
+    list-style: none;
+    margin: auto;
+    /*		padding-left: 20px;*/
+    text-align: right; }
+    nav ul li {
+      display: inline-block;
+      margin-left: 5%; }
+      nav ul li a:link, nav ul li a:active, nav ul li a:visited {
+        text-decoration: none;
+        font-size: 2em;
+        color: black; }
+      nav ul li a:hover {
+        color: yellow; }
+
+body {
+  margin: 0;
+  background-color: #bfbfbf; }
+  body .wrapper {
+    margin: 0 auto;
+    width: 1080px; }
+
+/*# sourceMappingURL=main.css.map */

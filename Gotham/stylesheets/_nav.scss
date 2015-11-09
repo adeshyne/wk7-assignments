@@ -1,0 +1,28 @@
+nav {
+	background-color: shade(grey, 50%); 
+
+	ul {
+		list-style: none;
+		margin: auto;
+/*		padding-left: 20px;*/
+		text-align: right;
+
+		li {
+			display: inline-block;
+			margin-left: 5%;
+		
+
+			a:link, a:active, a:visited {
+				text-decoration: none;
+				font-size: 2em;
+				color: black;
+			}
+
+
+			a:hover {
+				color: yellow;
+
+			}
+		}
+	}
+}
